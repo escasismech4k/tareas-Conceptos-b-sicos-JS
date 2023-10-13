@@ -1,0 +1,1 @@
+Pedir un número al usuario y escribirlo/imprimirlo sumándole 10. Imprimir los resultados por consola
